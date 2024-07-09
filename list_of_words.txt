@@ -1,296 +1,415 @@
- Entwash
- Lorien
- Galadriel
- Aragorn
- Anduril
- Boromir
- Isengard
- Rohan
- Gondor
- Mordor
- MinasTirith
- MinasMorgul
- Osgiliath
- DolAmroth
- Lothlorien
- CarasGaladhon
- Moria
- KhazadDum
- Erebor
- Eregion
- Nazgul
- Urukhai
- Orcrist
- Anduril
- Elfstone
- Elfqueen
- Silmaril
- Valar
- Maiar
- Noldor
- hobbit
- OneRing
- MiddleEarth
- Gollum
- BilboBaggins
- Gandalf
- FrodoBaggins
- SamwiseGamgee
- Mordor
- Ringwraith
- star wars
- Jedi
- Sith
- LukeSkywalker
- PrincessLeia
- HanSolo
- Chewbacca
- C3PO
- R2D2
- spice
- melange
- Arrakis
- BeneGesserit
- Atreides
- Harkonnen
- FeydRautha
- LetoAtreides
- DuncanIdaho
- Hitchhiker's
- Guide
- Galaxy
- DonkeyRider
- Zaphod
- Trillian
- Marvin
- Slartibartfast
- Vogon
- ready
- player
- one
- BernalDiazDelCanto
- WillyLoman
- Hal9000
- 2001
- space
- odyssey
- dnd
- dragonlance
- kender
- tinkerbell
- paladin
- ranger
- rogue
- barbarian
- wizard
- Mithral
- Mindflayer
- Beholder
- Dragonborn
- Paladin
- Ranger
- Rogue
- Barbarian
- Wizard
- hobbiton
- shire
- rivendell
- moria
- goblin
- orc
- entsong
- treebeard
- entmoot
- JediOrder
- SithLord
- lightsaber
- blaster
- stormtrooper
- rebelalliance
- empire
- deathstar
- tarkin
- spiceharvest
- wormsign
- sandworm
- giantshark
- melange
- sietch
- warrior
- fremen
- atreides
- GuideEntry
- planetzeta
- zaphodbeeblebrox
- marvinmartian
- trilliantripleplay
- slartibartfastscammer
- vogonpoetsociety
- playerone
- bernaldiazdelcanto
- willylomantriumphant
- hal9000supercomputer
- 2001spaceodyssey
- dragonfire
- dragonlancewarriors
- kendermischief, mayhem
- tinkerbelltwinkletoes, sparkles
- paladinjustice, honor
- rangertrackless, wilderness
- rogue stealthy, cunning
- barbarianstrength, ferocity
- wizardmagic, mystery
- case
- jones
- harlan
- vroomfondel
- maelstrom
- ono
- soylentgreen
- razorback
- kesselring
- neuromancer
- cobb
- wintermute
- peter
- reverend
- armitage
- conroy
- decker
- tenneth
- lissa
- casey
- molly
- microsoft
- cyberpunk
- virtualreality
- artificialintelligence
- augmentedhuman
- datatrash
- cyberspace
- simulacrum
- sprawl
- datasphere
- Hogwarts
- Slytherin
- Gryffindor
- Ravenclaw
- Hufflepuff
- Quidditch
- Wizarding
- Magic
- Spells
- Potions
- Transfiguration
- HarryPotter
- HermioneGranger
- RonWeasley
- DracoMalfoy
- LordVoldemort
- Snape
- McGonagall
- Dumbledore
- SiriusBlack
- RemusLupin
- GryffindorTower
- SlytherinCommons
- HufflepuffDormitories
- RavenclawStaircase
- DiagonAlley
- Ollivanders
- FlourishAndBlotts
- WeasleysWizengaged
- Honeydukes
- HogwartsExpress
- Platform 9 3/4
- King'sCross
- London
- MuggleWorld
- WizardingBritain
- MinistryOfMagic
- DepartmentofMagicalLawEnforcement
- AurorOffice
- OrderOfThePhoenix
- PotionsMaster
- Herbology
- Divination
- CareOfMagicalCreatures
- AncientRunes
- Arithmancy
- Flying
- Charms
- DefenseAgainstTheDarkArts
- BigBrother
- Oceania
- Eurasia
- Eastasia
- MinistryOfTruth
- Minitrue
- Victory Mansions
- Airstrip One
- WinstonSmith
- O'Brien
- Syme
- Parsons
- Doublethink
- Newspeak
- Ingsoc
- Proles
- PartySlogan
- HateWeek
- TwoMinutesHate
- Telescreens
- ThoughtPolice
- Thoughtcrime
- MinistryOfLove
- MinistryOfPeace
- MinistryOfPlenty
- MinistryOfVictory
- ComradeWinston
- ComradeJulia
- InnerParty
- OuterParty
- Proletariat
- Doubleplusungood
- Unperson
- Room101
- MinistryOfInformation
- WarIsPeace
- FreedomIsSlavery
- IgnoranceIsStrength
- Epsilon
- FordMadoxFord
- SyntheticHumans
- Reconditioning
- Hypnopædia
- Soma
- Controllers
- WorldState
- DepartmentOfPre-CreativePsychology
- BernardMarx
- LeninaCrowne
- FannyCrowne
- HelmholtzWatson
- MustaphaMond
- JohnThe Savage
- LindaWatts
- TheDirector
- TheHatcheryAnd ConditioningCenters
- CentralControl
- TheWorld Controllers
- TheHappinessMan
- TheFeelies
- TheSolidarityService
- TheLeninEmersonMemorial
- TheFordianAge
- Epsilons
- Gammas
- Deltas
- Betas
- Alphas
- AlphaPlus
- TheElite
- TheUpperClass
- TheLowerClass
- TheOutcasts
-
+Entwash
+Lorien
+Galadriel
+Aragorn
+Anduril
+Boromir
+Isengard
+Rohan
+Gondor
+Mordor
+MinasTirith
+MinasMorgul
+Osgiliath
+DolAmroth
+Lothlorien
+CarasGaladhon
+Moria
+KhazadDum
+Erebor
+Eregion
+Nazgul
+Urukhai
+Orcrist
+Anduril
+Elfstone
+Elfqueen
+Silmaril
+Valar
+Maiar
+Noldor
+hobbit
+OneRing
+MiddleEarth
+Gollum
+BilboBaggins
+Gandalf
+FrodoBaggins
+SamwiseGamgee
+Mordor
+Ringwraith
+star wars
+Jedi
+Sith
+LukeSkywalker
+PrincessLeia
+HanSolo
+Chewbacca
+C3PO
+R2D2
+spice
+melange
+Arrakis
+BeneGesserit
+Atreides
+Harkonnen
+FeydRautha
+LetoAtreides
+DuncanIdaho
+Hitchhiker's
+Guide
+Galaxy
+DonkeyRider
+Zaphod
+Trillian
+Marvin
+Slartibartfast
+Vogon
+ready
+player
+one
+BernalDiazDelCanto
+WillyLoman
+Hal9000
+2001
+space
+odyssey
+dnd
+dragonlance
+kender
+tinkerbell
+paladin
+ranger
+rogue
+barbarian
+wizard
+Mithral
+Mindflayer
+Beholder
+Dragonborn
+Paladin
+Ranger
+Rogue
+Barbarian
+Wizard
+hobbiton
+shire
+rivendell
+moria
+goblin
+orc
+entsong
+treebeard
+entmoot
+JediOrder
+SithLord
+lightsaber
+blaster
+stormtrooper
+rebelalliance
+empire
+deathstar
+tarkin
+spiceharvest
+wormsign
+sandworm
+giantshark
+melange
+sietch
+warrior
+fremen
+atreides
+GuideEntry
+planetzeta
+zaphodbeeblebrox
+marvinmartian
+trilliantripleplay
+slartibartfastscammer
+vogonpoetsociety
+playerone
+bernaldiazdelcanto
+willylomantriumphant
+hal9000supercomputer
+2001spaceodyssey
+dragonfire
+dragonlancewarriors
+kendermischief 
+mayhem
+tinkerbelltwinkletoes 
+sparkles
+paladinjustice 
+honor
+rangertrackless 
+wilderness
+rogue stealthy 
+cunning
+barbarianstrength
+ferocity
+wizardmagic 
+mystery
+case
+jones
+harlan
+vroomfondel
+maelstrom
+ono
+soylentgreen
+razorback
+kesselring
+neuromancer
+cobb
+wintermute
+peter
+reverend
+armitage
+conroy
+decker
+tenneth
+lissa
+casey
+molly
+microsoft
+cyberpunk
+virtualreality
+artificialintelligence
+augmentedhuman
+datatrash
+cyberspace
+simulacrum
+sprawl
+datasphere
+Hogwarts
+Slytherin
+Gryffindor
+Ravenclaw
+Hufflepuff
+Quidditch
+Wizarding
+Magic
+Spells
+Potions
+Transfiguration
+HarryPotter
+HermioneGranger
+RonWeasley
+DracoMalfoy
+LordVoldemort
+Snape
+McGonagall
+Dumbledore
+SiriusBlack
+RemusLupin
+GryffindorTower
+SlytherinCommons
+HufflepuffDormitories
+RavenclawStaircase
+DiagonAlley
+Ollivanders
+FlourishAndBlotts
+WeasleysWizengaged
+Honeydukes
+HogwartsExpress
+Platform 9 3/4
+King'sCross
+London
+MuggleWorld
+WizardingBritain
+MinistryOfMagic
+DepartmentofMagicalLawEnforcement
+AurorOffice
+OrderOfThePhoenix
+PotionsMaster
+Herbology
+Divination
+CareOfMagicalCreatures
+AncientRunes
+Arithmancy
+Flying
+Charms
+DefenseAgainstTheDarkArts
+BigBrother
+Oceania
+Eurasia
+Eastasia
+MinistryOfTruth
+Minitrue
+Victory Mansions
+Airstrip One
+WinstonSmith
+O'Brien
+Syme
+Parsons
+Doublethink
+Newspeak
+Ingsoc
+Proles
+PartySlogan
+HateWeek
+TwoMinutesHate
+Telescreens
+ThoughtPolice
+Thoughtcrime
+MinistryOfLove
+MinistryOfPeace
+MinistryOfPlenty
+MinistryOfVictory
+ComradeWinston
+ComradeJulia
+InnerParty
+OuterParty
+Proletariat
+Doubleplusungood
+Unperson
+Room101
+MinistryOfInformation
+WarIsPeace
+FreedomIsSlavery
+IgnoranceIsStrength
+Epsilon
+FordMadoxFord
+SyntheticHumans
+Reconditioning
+Hypnopædia
+Soma
+Controllers
+WorldState
+DepartmentOfPre-CreativePsychology
+BernardMarx
+LeninaCrowne
+FannyCrowne
+HelmholtzWatson
+MustaphaMond
+JohnThe Savage
+LindaWatts
+TheDirector
+TheHatcheryAnd ConditioningCenters
+CentralControl
+TheWorld Controllers
+TheHappinessMan
+TheFeelies
+TheSolidarityService
+TheLeninEmersonMemorial
+TheFordianAge
+Epsilons
+Gammas
+Deltas
+Betas
+Alphas
+AlphaPlus
+TheElite
+TheUpperClass
+TheLowerClass
+TheOutcasts
+Warpstar
+KoopaKingdom
+MushroomMansion
+PrincessPeaches
+GoombaGang
+BulletBill
+FireFlowerPower
+YoshiYummy
+BowserBomb
+PowerMoon
+PipePalace
+QuestionMarkBlock
+DonutDynamo
+CheepCheepCave
+SpinJump
+StarBit
+ToadTrek
+WarpPipeWonders
+YoshiYonder
+GoombaGiggle
+FireFlowerFrenzy
+BowserBossBattle
+PowerMushroomMight
+PipePuzzlePieces
+DonutDaredevil
+CheepCheepChallenge
+SpinSprint
+StarSparkle
+BulletBillBrawl
+WarpWagonWildRide
+KoopaKingdomKeep
+PrincessPeachesPursuit
+GoombaGiggleFit
+FireFlowerFurious
+YoshiYonderland
+BowserBossBattleRoyal
+PowerMushroomMeteorite
+PipePuzzlePiecePerfection
+DonutDaredevilDash
+CheepCheepChallengeAccepted
+SpinSprintSpeedster
+StarSparkleSurge
+BulletBillBrawlBuster
+WarpWagonWildRideRenewal
+KoopaKingdomKingsize
+PrincessPeachesPursuitPerfection
+GoombaGiggleFitFrenzy
+FireFlowerFuriousForce
+YoshiYonderlandAdventure
+BowserBossBattleBrave
+PowerMushroomMeteoriteMayhem
+PipePuzzlePiecePerfectionist
+DonutDaredevilDashDynasty
+CheepCheepChallengeChampion
+SpinSprintSpeedsterSupreme
+StarSparkleSurgeSpectacle
+BulletBillBrawlBrawler
+WarpWagonWildRideWizardry
+KoopaKingdomKnightly
+PrincessPeachesPursuitProdigy
+GoombaGiggleFitFusion
+FireFlowerFuriousFury
+YoshiYonderlandYearning
+BowserBossBattleBraggadocious
+Temerant
+Waystone
+Felaheen
+Cinquel
+Wilemy
+Tarbean
+Ruminah
+Kvothe
+Myrna
+Devi
+Bastille
+Adem
+Denna
+Eira
+Arliden
+Selium
+Elodin
+Vintas
+Namarro
+Trebon
+FennCraval
+Chronicler
+Sweetspire
+Anillin
+Eolian
+Dulse
+Vyrany
+Kaelin
+Alaric
+Lannis
+Cuthbert
+Denna'sSong
+WaystoneInn
+FelaheenFolk
+CinquelCrimson
+Myrnion'sMercy
+Devi'sDance
+BastilleBold
+Ambrose 
+EiraElegant
+SeliumSerenade
+TrebonTales
+NamarroNightmares
+VintasValiant
+Anillin'sAxle
+Chronicler'sChronicle
+SweetspireSanctuary
+EolianEchoes
+DulseDawn
